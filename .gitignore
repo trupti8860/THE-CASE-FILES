@@ -1,0 +1,13 @@
+# Local player save / generated files
+progress.json
+*.tmp
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
